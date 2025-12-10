@@ -1,4 +1,4 @@
-Tasks & Questions
+# Tasks & Questions
 
 Q1 :
 Write a stored procedure GetPatientAppointments that takes a PatientID as input and returns all appointments for that patient, including Appointment Date, Doctor Name, Specialization, Diagnosis, and Fees.
